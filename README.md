@@ -4,7 +4,7 @@ A modern, dark-themed personal portfolio showcasing my work in **UI/UX Design an
 
 ## Portfolio Preview
 
-![Portfolio Preview](https://github.com/Faiqa-Basharat/My-Portfolio/raw/main/assets/portfolio.png)
+![Portfolio Preview](https://faiqa-basharat-portfolio.vercel.app/)
 
 ## About the Project
 
